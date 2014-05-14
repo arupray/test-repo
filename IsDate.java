@@ -8,7 +8,7 @@ import org.apache.commons.validator.routines.*;
 /**
  * 
  * @author Arup Ray
- * Last updated:
+ * Last updated: 5/14
  */
 public final class IsDate extends UDF{
 	/**
